@@ -1,0 +1,2 @@
+# BaseProject
+django base project
